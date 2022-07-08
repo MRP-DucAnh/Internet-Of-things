@@ -1,0 +1,10 @@
+Project 1: Smart traffic light.
+-Mô tả:	+)Giải quyết vấn đề xảy ra ở đường cao tốc: đường chính sẽ không chuyển đèn khi đường phụ không có người.
+		+)Sử dụng cảm biến siêu âm để xác định xem đường phụ có người tham gia giao thông hay không.
+		+)Trên mô phỏng nếu cảm biến quét được vật cản ở khoảng cách lớn hơn 10cm thì xác định có người ở đường phụ.
+
+-Thành phần: 	+)Arduino
+			+)6 đèn led màu
+			+)6 điện trở 220 ôm
+			+)dây nối đực đực
+			+)Cảm biến âm thanh.
